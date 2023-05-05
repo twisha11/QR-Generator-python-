@@ -18,7 +18,7 @@ pip install python-resize-image
 ```
 pip install opencv-python 
 ```
-## create a Folder
+## Create a Folder
 folder name must be
 ```
 QR Codes
